@@ -25,3 +25,8 @@ main .conteudo{
     border-radius: 8px;
     padding: 20px;
 }
+
+section h2{
+    front-size: 24px;
+    color: #333333;
+}
